@@ -84,8 +84,8 @@ View All Retailer_Assistants
             "lname": "Azam",
             "contact": "01551577577",
             "email": "mdsarowerazam_87@yahoo.com",
-            "territory_id": 0,
-            "distribution_point_id": "ry38r31nfkg804gswk8k0cog48oww4210531110822"
+            "territory_id": 2,
+            "distribution_point_id": "6"
         }
 		    ],
     "message": "Successfully fetched all Retail Assistant data.",
