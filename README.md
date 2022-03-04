@@ -97,7 +97,7 @@ View All Retailer_Assistants
 
 Find Retailer_Assistants by contact no
 
-* **URL**: `http://shopoth-ra.com/v1/api/ra/{ra:conract}`
+* **URL**: `http://shopoth-ra.com/v1/api/ra/{ra:contact}`
 
 * **Method:** `GET`
 
