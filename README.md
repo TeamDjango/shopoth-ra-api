@@ -125,7 +125,7 @@ Find Retailer_Assistants by contact no
 
 * ** Error Response:**
 * **Code:** `403`
-  	* **If username or password not matched then:**
+  	* **If Retail Assistan contact not found then:**
   	* **Content:**
 ```json
 {
